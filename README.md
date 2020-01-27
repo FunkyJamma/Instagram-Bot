@@ -1,6 +1,4 @@
-# Instagram-Bot
-
-Instagram-Bot based on the tutorial by dvlp.r
+# Instagram-Bot ( This code no longer works )
 
 This bot will log you in and follow the desired users and then unfollow 30 seconds later.
 
